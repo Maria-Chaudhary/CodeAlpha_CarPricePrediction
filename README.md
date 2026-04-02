@@ -55,12 +55,12 @@ pip install pandas numpy scikit-learn xgboost gradio matplotlib fuzzywuzzy pytho
 python app.py
 ```
 
-Open in browser:
+## Open in browser:
 http://127.0.0.1:7860
 
 
 ##💡 Future Improvements
-Add more features (Year, Fuel Type, Transmission)
-Improve model accuracy (R² > 0.85)
-Deploy app online
-Enhance UI/UX
+ - Add more features (Year, Fuel Type, Transmission)
+ - Improve model accuracy (R² > 0.85)
+ - Deploy app online
+ - Enhance UI/UX
